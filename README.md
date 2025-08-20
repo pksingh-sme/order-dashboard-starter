@@ -26,18 +26,20 @@ npm run dev
 npm run test
 
 ## 📂 Project Structure
-order-dashboard/ 
+
+```plaintext
+order-dashboard/
 ├── src/
-│   ├── components/       # Reusable components 
-│   ├── hooks/            # Custom hooks 
-│   ├── pages/            # Pages (Dashboard) 
-│   ├── types/            # TypeScript interfaces 
-│   ├── App.tsx           # Root component 
-│   ├── main.tsx          # Entry point 
-│   └── index.css         # Tailwind styles 
-├── tests/                # Example tests 
-├── package.json 
-├── vite.config.ts 
-├── tailwind.config.js 
-├── tsconfig.json 
-└── README.md 
+│   ├── components/       # Reusable components
+│   ├── hooks/            # Custom hooks
+│   ├── pages/            # Pages (Dashboard, etc.)
+│   ├── types/            # TypeScript interfaces
+│   ├── App.tsx           # Root component
+│   ├── main.tsx          # Entry point
+│   └── index.css         # Tailwind styles
+├── tests/                # Unit + integration tests
+├── package.json          # Dependencies & scripts
+├── vite.config.ts        # Vite configuration
+├── tailwind.config.js    # Tailwind configuration
+├── tsconfig.json         # TypeScript configuration
+└── README.md             # Project guide
