@@ -27,7 +27,7 @@ npm run test
 
 ## 📂 Project Structure
 
-```plaintext
+```bash
 order-dashboard/
 ├── src/
 │   ├── components/       # Reusable components
