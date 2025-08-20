@@ -1,11 +1,11 @@
-# 🧪 Order Dashboard Assignment (Starter Repo)
+# Order Dashboard Assignment (Starter Repo)
 
 Welcome! This is a **starter template** for your React coding assignment.  
-We’ve set up the environment so you can focus on **solving the problem**, not boilerplate. 🚀  
+We’ve set up the environment so you can focus on **solving the problem**, not boilerplate.   
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 - **React 18 + TypeScript**
 - **Vite** (fast bundler)
 - **TailwindCSS** (styling)
@@ -14,7 +14,7 @@ We’ve set up the environment so you can focus on **solving the problem**, not 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install dependencies
 npm install
